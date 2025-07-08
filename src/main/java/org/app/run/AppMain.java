@@ -16,7 +16,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class AppMain {
 
     public static void main(String[] args) {
-//        popuniGaraze();
+        popuniGaraze();
         ukupnoMesta();
         evaluacija2023();
         vozaciPoKategorijama();
